@@ -1,0 +1,21 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Image Source="/Помещения больницы + СКУД.png" />
+        <Canvas x:Name="mainCanvas">
+            <Rectangle x:Name="s0" Fill="Transparent" Width="115" Height="100" Canvas.Top="80" Canvas.Left="350"/>
+            <Rectangle x:Name="s1" Fill="Transparent" Width="66" Height="100" Canvas.Top="80" Canvas.Left="466"/>
+            <Rectangle x:Name="s2" Fill="Transparent" Width="35" Height="100" Canvas.Top="80" Canvas.Left="533"/>
+            <Rectangle x:Name="s3" Fill="Transparent" Width="35" Height="100" Canvas.Top="80" Canvas.Left="570"/>
+            <Rectangle x:Name="s4" Fill="Transparent" Width="55" Height="100" Canvas.Top="80" Canvas.Left="607"/>
+            <Rectangle x:Name="s5" Fill="Transparent" Width="55" Height="100" Canvas.Top="80" Canvas.Left="665"/>
+        </Canvas>
+
+    </Grid>
+</Window>

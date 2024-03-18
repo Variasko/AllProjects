@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User105\\source\\repos\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7DCF18-2505-4ABE-8C72-B53C8CB2CBA7}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\user105\\source\\repos\\consoleapp2\\consoleapp2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7DCF18-2505-4ABE-8C72-B53C8CB2CBA7}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7DCF18-2505-4ABE-8C72-B53C8CB2CBA7}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\user105\\source\\repos\\consoleapp2\\consoleapp2\\apiconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7DCF18-2505-4ABE-8C72-B53C8CB2CBA7}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\apiconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7DCF18-2505-4ABE-8C72-B53C8CB2CBA7}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\user105\\source\\repos\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7DCF18-2505-4ABE-8C72-B53C8CB2CBA7}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User105\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Class1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Class1.cs",
+              "ToolTip": "C:\\Users\\User105\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Class1.cs",
+              "RelativeToolTip": "ConsoleApp2\\Class1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:50:23.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiConnector.cs",
+              "DocumentMoniker": "C:\\Users\\User105\\source\\repos\\ConsoleApp2\\ConsoleApp2\\ApiConnector.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\ApiConnector.cs",
+              "ToolTip": "C:\\Users\\User105\\source\\repos\\ConsoleApp2\\ConsoleApp2\\ApiConnector.cs",
+              "RelativeToolTip": "ConsoleApp2\\ApiConnector.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:06:25.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User105\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\User105\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:05:58.773Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
